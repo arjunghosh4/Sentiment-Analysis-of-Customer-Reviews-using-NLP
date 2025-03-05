@@ -34,7 +34,7 @@ pip install pandas numpy nltk scikit-learn matplotlib seaborn wordcloud spacy ge
 ## Usage Instructions
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/sentiment-analysis-amazon-echo.git
+   git clone [https://github.com/arjunghosh4/Sentiment-Analysis-of-Customer-Reviews-using-NLP.git]
    cd sentiment-analysis-amazon-echo
    ```
 2. **Run the Jupyter Notebook:**
